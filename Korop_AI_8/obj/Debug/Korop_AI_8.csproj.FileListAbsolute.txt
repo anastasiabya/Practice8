@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\bin\Debug\Korop_AI_8.exe.config
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\bin\Debug\Korop_AI_8.exe
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\bin\Debug\Korop_AI_8.pdb
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.Add.resources
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.Properties.Resources.resources
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.Search.resources
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.exe
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.pdb
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.Delete.resources
+C:\Users\User\source\repos\Korop_AI_8\Korop_AI_8\obj\Debug\Korop_AI_8.MainForm.resources
